@@ -4,7 +4,6 @@ export PATH
 
 sh_ver="1.2"
 github="gitee.com/yunyiya/Linux-NetSpeed/raw/master"
-
 Green_font_prefix="\033[32m" && hongsewenzi="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
 Info="${Green_font_prefix}[信息]${Font_color_suffix}"
 address="${Green_font_prefix}[管理地址]${Font_color_suffix}"
